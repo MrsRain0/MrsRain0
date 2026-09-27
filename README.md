@@ -52,22 +52,28 @@ Yazılımı yalnızca kod yazmak olarak değil; **problem çözmek, araştırmak
 ## 📚 Şu Anda Öğreniyorum
 
 ### 💜 C# / .NET
-<img src="https://progress-bar.dev/60/?title=Geliştiriyorum&width=400&color=512BD4" />
+
+<img src="https://img.shields.io/badge/████████████░░░░░░░░-60%20Geliştiriyorum-512BD4?style=for-the-badge" />
 
 ### 🌐 Web Development
-<img src="https://progress-bar.dev/70/?title=Geliştiriyorum&width=400&color=1572B6" />
+
+<img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Geliştiriyorum-1572B6?style=for-the-badge" />
 
 ### 🎨 HTML / CSS
-<img src="https://progress-bar.dev/70/?title=Geliştiriyorum&width=400&color=E34F26" />
+
+<img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Geliştiriyorum-E34F26?style=for-the-badge" />
 
 ### 🟨 JavaScript
-<img src="https://progress-bar.dev/40/?title=Öğreniyorum&width=400&color=F7DF1E" />
+
+<img src="https://img.shields.io/badge/████████░░░░░░░░░░░░-40%20Öğreniyorum-F7DF1E?style=for-the-badge&labelColor=F7DF1E&color=F7DF1E" />
 
 ### 🗄️ SQL & Database
-<img src="https://progress-bar.dev/60/?title=Geliştiriyorum&width=400&color=4479A1" />
+
+<img src="https://img.shields.io/badge/████████████░░░░░░░░-60%20Geliştiriyorum-4479A1?style=for-the-badge" />
 
 ### 🔧 Git & GitHub
-<img src="https://progress-bar.dev/70/?title=Aktif%20Kullanıyorum&width=400&color=181717" />
+
+<img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Aktif%20Kullanıyorum-181717?style=for-the-badge" />
 
 > Bu seviyeler resmi bir ölçüm değildir; mevcut öğrenme sürecimi genel olarak
 > ifade etmek için kullanılmıştır.
