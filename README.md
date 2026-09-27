@@ -4,6 +4,10 @@
 
 ### 💻 Computer Programming Student • Web Development • C#/.NET • Database
 
+<br>
+
+### 🇹🇷 Türkçe &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 🇬🇧 English
+
 </div>
 
 <br>
