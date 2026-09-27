@@ -89,20 +89,6 @@ SQL sorguları, veritabanı tasarımı ve veri yönetimi üzerine yaptığım ç
 
 ---
 
-## 🎯 Öğrenme Yol Haritam
-
-- [ ] C# ve .NET ekosisteminde güçlü bir temel oluşturmak
-- [ ] Nesne yönelimli programlama (OOP) konusunda ilerlemek
-- [ ] SQL ve ilişkisel veritabanı tasarımını daha iyi öğrenmek
-- [ ] JavaScript bilgilerimi ileri seviyeye taşımak
-- [ ] Backend geliştirme konusunda deneyim kazanmak
-- [ ] Daha kapsamlı ve gerçek hayat senaryolarına uygun projeler geliştirmek
-- [ ] Git ve GitHub kullanımında profesyonel bir çalışma düzeni oluşturmak
-- [ ] Temiz, okunabilir ve sürdürülebilir kod yazma alışkanlığı kazanmak
-- [ ] Projelerimi daha iyi dokümante etmek
-- [ ] Yazılım mimarisi ve iyi geliştirme pratikleri hakkında bilgi edinmek
-
----
 
 
 ## 🔥 GitHub Aktivitem
@@ -113,28 +99,6 @@ SQL sorguları, veritabanı tasarımı ve veri yönetimi üzerine yaptığım ç
     alt="GitHub Streak"
   />
 </p>
-
----
-
-## 💡 Geliştirme Yaklaşımım
-
-```text
-Öğren
-  ↓
-Araştır
-  ↓
-Uygula
-  ↓
-Hata Yap
-  ↓
-Analiz Et
-  ↓
-Geliştir
-  ↓
-Tekrarla
-```
-
-Her proje benim için yalnızca ortaya çıkan bir ürün değil, aynı zamanda yeni bilgiler edindiğim ve kendimi geliştirdiğim bir süreç.
 
 ---
 
