@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Yağmur Hotan
-
 </div>
 
 <br>
