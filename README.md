@@ -105,7 +105,6 @@ SQL sorguları, veritabanı tasarımı ve veri yönetimi üzerine yaptığım ç
 ---
 
 ## 📊 GitHub İstatistikleri
-
 <p align="center">
   <img
     height="170"
