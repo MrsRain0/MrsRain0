@@ -32,12 +32,12 @@ Yazılımı yalnızca kod yazmak olarak değil; **problem çözmek, araştırmak
 ## 📚 Şu Anda Odaklandığım Alanlar
 
 ```text
-C# / .NET                 ██████░░░░  Geliştiriyorum
-Web Development           ███████░░░  Geliştiriyorum
-HTML / CSS                ███████░░░  Geliştiriyorum
-JavaScript                ████░░░░░░  Öğreniyorum
-SQL & Database            ██████░░░░  Geliştiriyorum
-Git & GitHub              ███████░░░  Aktif Kullanıyorum
+C# / .NET                 ▰▰▰▰▰▰▱▱▱▱  Geliştiriyorum
+Web Development           ▰▰▰▰▰▰▰▱▱▱  Geliştiriyorum
+HTML / CSS                ▰▰▰▰▰▰▰▱▱▱  Geliştiriyorum
+JavaScript                ▰▰▰▰▱▱▱▱▱▱  Öğreniyorum
+SQL & Database            ▰▰▰▰▰▰▱▱▱▱  Geliştiriyorum
+Git & GitHub              ▰▰▰▰▰▰▰▱▱▱  Aktif Kullanıyorum
 ```
 
 > Bu göstergeler resmi bir yetkinlik ölçümü değildir. Yalnızca mevcut öğrenme sürecimi ve odaklandığım alanları genel olarak ifade etmektedir.
