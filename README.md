@@ -51,12 +51,13 @@ Yazılımı yalnızca kod yazmak olarak değil; **problem çözmek, araştırmak
 
 ## 📚 Şu Anda Öğreniyorum
 
+```text
 C# / .NET                 ██████░░░░  Geliştiriyorum
 Web Development           ███████░░░  Geliştiriyorum
-HTML / CSS                ███████░░░  Geliştiriyorum
+HTML / CSS / JavaScript   ███████░░░  Geliştiriyorum
 JavaScript                ████░░░░░░  Öğreniyorum
 SQL & Database            ██████░░░░  Geliştiriyorum
-Git & GitHub              ████████░░  Aktif Kullanıyorum
+Git & GitHub              ███████░░░  Aktif Kullanıyorum
 
 > Bu seviyeler resmi bir ölçüm değildir; mevcut öğrenme sürecimi genel olarak
 > ifade etmek için kullanılmıştır.
