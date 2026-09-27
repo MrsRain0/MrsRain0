@@ -109,7 +109,7 @@ SQL sorguları, veritabanı tasarımı ve veri yönetimi üzerine yaptığım ç
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=MrsRain0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
     alt="Yağmur Hotan GitHub İstatistikleri"
   />
 </p>
@@ -117,12 +117,10 @@ SQL sorguları, veritabanı tasarımı ve veri yönetimi üzerine yaptığım ç
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRain0&layout=compact&hide_border=true"
     alt="En Çok Kullanılan Diller"
   />
 </p>
-
-> `KULLANICI_ADIN` bölümünü kendi GitHub kullanıcı adınla değiştirmeyi unutma.
 
 ---
 
