@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Yağmur Hotan]
+# 👋 Merhaba, ben Yağmur Hotan,
 
 ### 💻 Bilgisayar Programcılığı Öğrencisi | Web Geliştirme | C# | Veritabanı
 
@@ -51,29 +51,17 @@ Yazılımı yalnızca kod yazmak olarak değil; **problem çözmek, araştırmak
 
 ## 📚 Şu Anda Öğreniyorum
 
-### 💜 C# / .NET
+### 💜 C# / .NET <img src="https://img.shields.io/badge/████████████░░░░░░░░-60%20Geliştiriyorum-512BD4?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/████████████░░░░░░░░-60%20Geliştiriyorum-512BD4?style=for-the-badge" />
+### 🌐 Web Development <img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Geliştiriyorum-1572B6?style=for-the-badge" />
 
-### 🌐 Web Development
+### 🎨 HTML / CSS <img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Geliştiriyorum-E34F26?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Geliştiriyorum-1572B6?style=for-the-badge" />
+### 🟨 JavaScript <img src="https://img.shields.io/badge/████████░░░░░░░░░░░░-40%20Öğreniyorum-F7DF1E?style=for-the-badge&labelColor=F7DF1E&color=F7DF1E" />
 
-### 🎨 HTML / CSS
+### 🗄️ SQL & Database <img src="https://img.shields.io/badge/████████████░░░░░░░░-60%20Geliştiriyorum-4479A1?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Geliştiriyorum-E34F26?style=for-the-badge" />
-
-### 🟨 JavaScript
-
-<img src="https://img.shields.io/badge/████████░░░░░░░░░░░░-40%20Öğreniyorum-F7DF1E?style=for-the-badge&labelColor=F7DF1E&color=F7DF1E" />
-
-### 🗄️ SQL & Database
-
-<img src="https://img.shields.io/badge/████████████░░░░░░░░-60%20Geliştiriyorum-4479A1?style=for-the-badge" />
-
-### 🔧 Git & GitHub
-
-<img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Aktif%20Kullanıyorum-181717?style=for-the-badge" />
+### 🔧 Git & GitHub <img src="https://img.shields.io/badge/██████████████░░░░░░-70%20Aktif%20Kullanıyorum-181717?style=for-the-badge" />
 
 > Bu seviyeler resmi bir ölçüm değildir; mevcut öğrenme sürecimi genel olarak
 > ifade etmek için kullanılmıştır.
