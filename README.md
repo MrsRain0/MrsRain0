@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Ad Soyad]
+# 👋 Merhaba, ben [Yağmur Hotan]
 
 ### 💻 Bilgisayar Programcılığı Öğrencisi | Web Geliştirme | C# | Veritabanı
 
@@ -51,13 +51,23 @@ Yazılımı yalnızca kod yazmak olarak değil; **problem çözmek, araştırmak
 
 ## 📚 Şu Anda Öğreniyorum
 
-```text
-C# / .NET                 ██████░░░░  Geliştiriyorum
-Web Development           ███████░░░  Geliştiriyorum
-HTML / CSS / JavaScript   ███████░░░  Geliştiriyorum
-SQL & Database            ██████░░░░  Geliştiriyorum
-Git & GitHub              ███████░░░  Aktif Kullanıyorum
-```
+### 💜 C# / .NET
+<img src="https://progress-bar.dev/60/?title=Geliştiriyorum&width=400&color=512BD4" />
+
+### 🌐 Web Development
+<img src="https://progress-bar.dev/70/?title=Geliştiriyorum&width=400&color=1572B6" />
+
+### 🎨 HTML / CSS
+<img src="https://progress-bar.dev/70/?title=Geliştiriyorum&width=400&color=E34F26" />
+
+### 🟨 JavaScript
+<img src="https://progress-bar.dev/40/?title=Öğreniyorum&width=400&color=F7DF1E" />
+
+### 🗄️ SQL & Database
+<img src="https://progress-bar.dev/60/?title=Geliştiriyorum&width=400&color=4479A1" />
+
+### 🔧 Git & GitHub
+<img src="https://progress-bar.dev/70/?title=Aktif%20Kullanıyorum&width=400&color=181717" />
 
 > Bu seviyeler resmi bir ölçüm değildir; mevcut öğrenme sürecimi genel olarak
 > ifade etmek için kullanılmıştır.
