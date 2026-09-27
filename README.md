@@ -2,8 +2,6 @@
 
 # 👋 Yağmur Hotan
 
-### 💻 Computer Programming Student • Web Development • C#/.NET • Database
-
 </div>
 
 <br>
