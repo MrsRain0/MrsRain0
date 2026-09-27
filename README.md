@@ -70,17 +70,6 @@ SQL sorguları, veritabanı tasarımı ve veri yönetimi üzerine yaptığım ç
 
 
 
-## 🔥 GitHub Aktivitem
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ## 🌱 Kariyer Hedefim
 
 Yazılım alanında güçlü bir temel oluşturmak, farklı teknolojiler üzerinde deneyim kazanmak ve zaman içerisinde daha büyük ölçekli projeler geliştirmek istiyorum.
